@@ -2,4 +2,4 @@
 
 Twitter client built using github copilot. Only able to tweet
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ds9ebhMEcGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=ds9ebhMEcGI "Everything Is AWESOME")
