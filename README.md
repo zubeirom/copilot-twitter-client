@@ -2,6 +2,4 @@
 
 Twitter client built using github copilot. Only able to tweet
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ds9ebhMEcGI/0.jpg)](https://www.youtube.com/watch?v=ds9ebhMEcGI)
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ds9ebhMEcGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
